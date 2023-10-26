@@ -11,3 +11,8 @@ En esta tecnicatura he vistos lenguajes como Java, Javascript, Python entre otro
 
 
 ![](https://i.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.webp)
+
+### My Linkedin:
+
+<ul>https://www.linkedin.com/in/carlafuschino/
+</ul>
